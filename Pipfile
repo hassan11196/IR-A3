@@ -16,6 +16,8 @@ flask = "*"
 django = "*"
 django-picklefield = "*"
 datetime = "*"
+pandas = "*"
+psycopg2 = "*"
 
 [requires]
 python_version = "3.7"

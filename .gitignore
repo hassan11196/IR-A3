@@ -114,4 +114,4 @@ dmypy.json
 /Submission
 /IR-SYS-A3
 /IR-WEB-A3
-/IR-SERVER-A3
+*.db.sqlite3
