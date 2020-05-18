@@ -115,3 +115,4 @@ dmypy.json
 /IR-SYS-A3
 /IR-WEB-A3
 *.db.sqlite3
+IR-SERVER-A3/IRA3/db.sqlite3

@@ -52,7 +52,7 @@ class BuildModel(View):
         options = request.POST
 
         status = build_knn_model(dataset=options['dataset'], train_size=float(options['train_size']),
-                                 test_size=float(options['test_size']), k=int(options['k']), distance_formula=options['distance_formula'], re_index=False)
+                                 test_size=float(options['test_size']), k=int(options['k']), distance_formula=options['distance_formula'], re_index=options['re_index'])
         return JsonResponse({'status': status, 'message': 'Model Trained'}, status=200)
 
 
