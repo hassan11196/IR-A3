@@ -28,7 +28,7 @@ A Web Application is hosted at  [https://ira3.netlify.com/#/](https://ira3.netli
 
 ### ScreenShots:
 
-- ![](Submission/Screenshots/Annotation%202020-05-18%20080928.png)
+- ![](Screenshots/Annotation%202020-05-18%20080928.png)
 
 
 ### References:
